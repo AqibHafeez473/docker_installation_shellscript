@@ -20,7 +20,7 @@
 cd your repository
 # Make the script executable:
 
-chmod +x install_docker.sh
+sudo chmod +x install_docker.sh
 # Execute the script with superuser privileges (sudo):
 sudo ./install_docker.sh
 # Follow any on-screen prompts or instructions provided by the script.
